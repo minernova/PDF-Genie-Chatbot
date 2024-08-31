@@ -1,0 +1,6 @@
+
+Flask
+PyPDF2
+openai
+langchain
+faiss-cpu
